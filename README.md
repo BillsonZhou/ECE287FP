@@ -1,3 +1,4 @@
+(The original Report is in the Wiki Section, this README file is just an incase)
 1. Home
    
 Welcome to the wiki of our group ECE287 Final Project!
