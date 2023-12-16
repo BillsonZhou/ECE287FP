@@ -1,0 +1,29 @@
+// Block width
+`ifndef body_w
+`define body_w 10'd5
+`endif
+
+// Block length
+`ifndef body_l
+`define body_l 10'd80
+`endif
+
+// Edge
+`ifndef SLDE_W
+`define SLDE_W 10'd40
+`endif
+
+// Monitor height
+`ifndef V_DISP
+`define V_DISP 10'd480
+`endif
+
+// Monitor width
+`ifndef H_DISP
+`define H_DISP 10'd640
+`endif
+
+// Ball size
+`ifndef BALL_W
+`define BALL_W 10'd10
+`endif
